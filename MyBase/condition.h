@@ -15,6 +15,7 @@
 #include "parse.h"
 #include <vector>
 #include <string>
+#include "string_tool.h"
 
 class ConditionItem
 {
